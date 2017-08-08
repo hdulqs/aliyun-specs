@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
 	s.dependency 'AKLog'
 	s.dependency 'AKUserTracker'
 	s.dependency 'AKRouterKit'
-  s.dependency 'AlinkSDK'
+	s.dependency 'AlinkSDK'
 	s.dependency 'AKDeviceKit'
 end
