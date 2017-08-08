@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 	s.platform     =  :ios, '8.0'
 	s.name = 'BoneKit'
-	s.version  = '1.0.2'
+	s.version  = '1.0.3'
 	s.summary = 'Alink BoneKit'
 	s.homepage = "https://open.aliplus.com"
 	s.license = {
