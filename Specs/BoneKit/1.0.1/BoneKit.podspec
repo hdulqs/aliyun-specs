@@ -27,5 +27,4 @@ Pod::Spec.new do |s|
 	s.dependency 'AKRouterKit'
 	s.dependency 'AlinkSDK'
 	s.dependency 'AKDeviceKit'
-	s.dependency 'SmurfsSDK'
 end
